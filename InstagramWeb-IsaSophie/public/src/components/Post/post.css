@@ -1,0 +1,51 @@
+.general {
+  height: 620px;
+  width: 470px;
+  background-color: rgb(241, 241, 241);
+  color: black;
+  border-radius: 4px;
+}
+.top-ig {
+  text-align: left;
+  padding: 8px;
+  width: 470px;
+  display: flex;
+}
+
+.username {
+  margin-left: 20px;
+}
+.botton-more {
+  margin-top: 20px;
+  margin-left: 260px;
+  height: 20px;
+  width: 20px;
+}
+
+.profile-img {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  margin-top: 5px;
+}
+
+.botton {
+  background-color: rgb(215, 216, 216);
+  color: black;
+  border-radius: 4px;
+}
+
+/*Descripction - botton*/
+
+.description {
+  background-color: rgb(241, 241, 241);
+  height: 160px;
+  width: 470px;
+  padding: 10px;
+}
+
+.datas {
+  font-size: 14px;
+  color: rgb(24, 23, 23);
+  font-family: Arial, Helvetica, sans-serif;
+}

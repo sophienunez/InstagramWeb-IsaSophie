@@ -1,0 +1,24 @@
+{
+  "name": "instagramweb-isasophie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophienunez/InstagramWeb-IsaSophie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophienunez/InstagramWeb-IsaSophie/issues"
+  },
+  "homepage": "https://github.com/sophienunez/InstagramWeb-IsaSophie#readme",
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "devDependencies": {}
+}
